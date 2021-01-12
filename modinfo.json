@@ -1,0 +1,14 @@
+{
+	"identifier": "com.pa.daedalus.mwe-",
+	"display_name": "MWE - ",
+	"description": "Minimum working example of",
+	"author": "Reckoner",
+	"signature": "not yet implemented",
+	"forum": "",
+	"priority": 100,
+	"icon": "",
+	"context": "server",
+	"date": "2021-01-12",
+	"build": "115280",
+    "version": "0.0.1"
+}
