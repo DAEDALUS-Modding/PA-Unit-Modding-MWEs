@@ -1,7 +1,7 @@
 {
-	"identifier": "com.pa.daedalus.mwe-",
-	"display_name": "MWE - ",
-	"description": "Minimum working example of",
+	"identifier": "com.pa.daedalus.mwe-rename",
+	"display_name": "MWE - Rename Ant",
+	"description": "Minimum working example of renaming a unit.",
 	"author": "Reckoner",
 	"signature": "not yet implemented",
 	"forum": "",
