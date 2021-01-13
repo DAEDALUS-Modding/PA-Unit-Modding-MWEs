@@ -1,7 +1,7 @@
 {
-	"identifier": "com.pa.daedalus.mwe-rename",
-	"display_name": "MWE - Rename Ant",
-	"description": "Minimum working example of renaming a unit.",
+	"identifier": "com.pa.daedalus.mwe-add_weapon",
+	"display_name": "MWE - Add Weapon to Ant",
+	"description": "Minimum working example of adding a new weapon to a unit.",
 	"author": "Reckoner",
 	"signature": "not yet implemented",
 	"forum": "",
