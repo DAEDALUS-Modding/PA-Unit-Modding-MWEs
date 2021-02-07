@@ -1,20 +1,7 @@
 {
-    "base_spec": "/pa/ammo/base_shell/base_shell.json",
-    "model": {
-        "filename": ""
-    },
-    "fx_trail": {
-        "filename": "/pa/effects/specs/tank_light_proj.pfx",
-        "offset": [
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    "damage": 84,
-    "splash_damage": 0,
-    "splash_radius": 0,
-    "initial_velocity": 200.0,
-    "max_velocity": 200.0,
-    "lifetime": 2
-}
+    "ammo_type": "PBAOE",
+    "damage": 100,
+    "sim_fire_effect": "/pa/units/land/bot_bomb/bot_bomb_ammo_explosion_ent.json",
+    "splash_damages_allies": false,
+    "splash_radius": 15
+  }

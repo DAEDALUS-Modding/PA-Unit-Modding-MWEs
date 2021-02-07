@@ -1,7 +1,7 @@
 {
-	"identifier": "com.pa.daedalus.mwe-add_energy_weapon",
-	"display_name": "MWE - Add Energy-consuming Weapon to Ant",
-	"description": "Minimum working example of adding a new weapon that consumes energy to a unit.",
+	"identifier": "com.pa.daedalus.mwe-attack_inside_pelican",
+	"display_name": "MWE - Unit that Attacks while Inside Transports",
+	"description": "Minimum working example of giving a unit a weapon that can fire even while inside a Pelican or Astreus.",
 	"author": "Reckoner",
 	"signature": "not yet implemented",
 	"forum": "",
